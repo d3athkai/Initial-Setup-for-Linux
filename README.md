@@ -14,7 +14,7 @@ This script is used to setup the following after cloning the golden Linux VM:
 * Only 1 IP address to be updated
   
 ## Compatibility
-This script tested working with Red Hat Enterprise Linux 7 & 8 / CentOS 7, 8 & Stream / Rocky Linux.  
+This script tested working with Red Hat Enterprise Linux 7 & 8 / CentOS 7, 8 & Stream / RockyLinux.  
   
 ## Setup
 Upload the script to the server and execute it: 
